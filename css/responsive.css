@@ -27,6 +27,7 @@
 
   #dolphin {
     top: 200px;
+    transform: rotate(1turn);
   }
 
 }
